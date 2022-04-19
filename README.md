@@ -7,8 +7,8 @@
 
 <div align="right">
   <a href="https://github.com/Bondance">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bondance&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&theme=dark"/>
-  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bondance&layout=compact&langs_count=7&theme=dark&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bondance&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
+  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bondance&layout=compact&langs_count=7&theme=dark"/>
     
     
 </div>
