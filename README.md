@@ -29,12 +29,14 @@
 
   <img align="right" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="right" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-  <img align="right" alt="podman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg">
+  <img align="right" alt="Podman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg">
   <img align="right" alt=JavaScript height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="right" alt="kubernets" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" >   
+  <img align="right" alt="Kubernets" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" >   
   <img align="right" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="right" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg">
+  <img align="right" alt="SSH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg">
+  <img align="right" alt="Fedora" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg">
+  <img align="right" alt="Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   
 </div> 
   
