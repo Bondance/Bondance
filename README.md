@@ -1,8 +1,4 @@
-### Hi, i'm Games Bond 
-
-
-
-- Arquiteto de Soluções Devops 💻🖋
+### Hi, I currently work at Red Hat as Devops Architect. 💻🖋
 
 
 <div align="right">
